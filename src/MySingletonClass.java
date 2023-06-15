@@ -4,7 +4,7 @@ import java.sql.SQLException;
 
 public class MySingletonClass {
     private static MySingletonClass istance = null;
-    private String url = "UniformResourceLocator";
+    private String url = "Uniform/Resource/Locator";
     private String usrName = "user";
     private String pass = "password";
 
